@@ -113,6 +113,10 @@ dwarfs by Tremblay et al. (2014, 20 pc), Fantin et al. (2019, CFIS) and Cukanova
 
 Please acknowledge the Montreal web site and cite Bédard et al. (2020) if you use the ages.
 
+## Video
+
+"Dead stars are clocks" (6 min, Kister Space, scheduled for 12 November 2026): https://youtu.be/e-qxdo1-QF0 — the figures and animations in it were made with this package (`examples/gaia_100pc.py` and the project's `skyimages/wdclock_anim.py`).
+
 ## Status
 
 v0.1.0, 2026-11-09. Written by Christian Jair with Claude (Anthropic) as the coding and research partner.
