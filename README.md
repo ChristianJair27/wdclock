@@ -115,7 +115,7 @@ Please acknowledge the Montreal web site and cite Bédard et al. (2020) if you u
 
 ## Video
 
-"Dead stars are clocks" (6 min, Kister Space, scheduled for 12 November 2026): https://youtu.be/e-qxdo1-QF0 — the figures and animations in it were made with this package (`examples/gaia_100pc.py` and the project's `skyimages/wdclock_anim.py`).
+"Dead stars are clocks" (6 min, Kister Space, scheduled for 12 November 2026): https://youtu.be/Holnz6odRoQ — the figures and animations in it were made with this package (`examples/gaia_100pc.py` and the project's `skyimages/wdclock_anim.py`).
 
 ## Status
 
