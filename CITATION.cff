@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use wdclock, please cite it and the Montreal cooling sequences (Bédard et al. 2020)."
+title: "wdclock: white-dwarf cooling ages and habitable-zone windows"
+version: 0.1.0
+date-released: 2026-11-09
+license: MIT
+repository-code: https://github.com/ChristianJair27/wdclock
+authors:
+  - family-names: Jair
+    given-names: Christian
+    affiliation: Kister Space
+references:
+  - type: article
+    authors:
+      - family-names: Bédard
+        given-names: A.
+      - family-names: Bergeron
+        given-names: P.
+      - family-names: Brassard
+        given-names: P.
+      - family-names: Fontaine
+        given-names: G.
+    title: "On the Spectral Evolution of Hot White Dwarf Stars. I. A Detailed Model Atmosphere Analysis of Hot White Dwarfs from SDSS DR12"
+    journal: The Astrophysical Journal
+    volume: 901
+    year: 2020
+    start: 93

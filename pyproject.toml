@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wdclock"
+version = "0.1.0"
+description = "White-dwarf cooling ages and habitable-zone windows from the Montreal evolutionary sequences"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [{name = "Christian Jair (Kister Space) and Claude"}]
+dependencies = ["numpy>=1.24", "pandas>=2.0"]
+
+[project.optional-dependencies]
+plots = ["matplotlib>=3.7"]
+test = ["pytest>=7"]
+
+[project.scripts]
+wdclock = "wdclock.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["wdclock*"]
