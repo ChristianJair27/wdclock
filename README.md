@@ -119,5 +119,5 @@ Please acknowledge the Montreal web site and cite Bédard et al. (2020) if you u
 
 ## Status
 
-v0.1.0, 2026-11-09. Written by Christian Jair with Claude (Anthropic) as the coding and research partner.
+v0.1.0, 2026-11-09. Written by Christian Jair (Kister Space).
 See `LEARNING.md` for what we learned building it. Issues and pull requests welcome.

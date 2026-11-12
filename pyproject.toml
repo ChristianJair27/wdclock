@@ -9,7 +9,7 @@ description = "White-dwarf cooling ages and habitable-zone windows from the Mont
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.10"
-authors = [{name = "Christian Jair (Kister Space) and Claude"}]
+authors = [{name = "Christian Jair (Kister Space)"}]
 dependencies = ["numpy>=1.24", "pandas>=2.0"]
 
 [project.optional-dependencies]
